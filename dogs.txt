@@ -1,1 +1,4 @@
 This is the dog file
+And we're adding a little text to see what happens
+Here we go.. 
+No horses, here... 
